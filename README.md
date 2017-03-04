@@ -7,5 +7,10 @@ node.js 로 만든 server project
 - Databases : Mongodb
 - Cloud/Infra : AWS(EC2, S3)
 
+## Web Service Architecture
+ - RESTful
+ 
 ## Features
-- 주요기능
+- Auth
+- Session
+- ...etc

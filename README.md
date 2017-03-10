@@ -1,5 +1,6 @@
-# node.js-project
+# node.js-express-project
 node.js - express 를 사용한 server project
+
 : 이미지, 영상, 텍스트를 공유하고 전시 공간을 찾는 APP
 
 ## Technical Stacks
